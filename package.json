@@ -1,0 +1,24 @@
+{
+  "name": "block-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisodiya1995/node-block-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sisodiya1995/node-block-2/issues"
+  },
+  "homepage": "https://github.com/sisodiya1995/node-block-2#readme",
+  "dependencies": {
+    "mo": "^1.7.3",
+    "moment": "^2.29.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
